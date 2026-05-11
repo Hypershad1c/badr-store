@@ -11,11 +11,11 @@ const jakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: 'Apex - Premium Ecommerce Platform',
+  title: 'badr store - Premium Ecommerce Platform',
   description:
     'Discover premium products and services. Shop physical goods or request virtual services with a seamless experience.',
   openGraph: {
-    title: 'Apex - Premium Ecommerce Platform',
+    title: 'badr store - Premium Ecommerce Platform',
     description: 'Discover premium products and services.',
     type: 'website',
   },
